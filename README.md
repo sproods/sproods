@@ -1,9 +1,10 @@
 ### Hi there 👋
 This is Sproods.
-😄 I am self-taught on how to program...
-🌱 I’m currently learning HTTP, CSS, Python, and C/C++
+😄 I am self-taught on how to program...<br><br>
+🌱 I’m currently learning HTTP, CSS, Python, and C/C++<br><br>
 📫 How to reach me:
-
+     <li><a href="https://www.instagram.com/contracontracultura/" target="_blank"> My Insta </a></li>
+     <li><a href="https://twitter.com/Contrax2cultura" target="_blank">     My Twitter </a></li>
 <!--
 **sproods/sproods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

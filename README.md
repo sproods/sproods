@@ -1,7 +1,7 @@
 ### Hi there 👋
-This is Sproods.
-😄 I am self-taught on how to program...<br><br>
-🌱 I’m currently learning HTTP, CSS, Python, and C/C++<br><br>
+Soy Sproods, ilustrador y concept artist
+😄 <br><br>
+🌱 Actualmente vengo aprendiendo a usar los lenguajes de programación C/C++<br><br>
 📫 How to reach me:
      <li><a href="https://www.instagram.com/contracontracultura/" target="_blank"> My Insta </a></li>
      <li><a href="https://twitter.com/Contrax2cultura" target="_blank">     My Twitter </a></li>
